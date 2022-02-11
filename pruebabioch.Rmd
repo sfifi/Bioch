@@ -11,10 +11,12 @@ y <- 10:1    # create a y variable
 dataf <- data.frame(x = x, y = y)
 summary(dataf)
 ```
-pues nada aqui estamos hacineod una prueba a ver que tal
+pues nada aqui estamos hacineod una prueba a ver que tal, no se si se guardará
+
+
 
 ```{r}
-
+summary(cars)
 ```
 
 ```{r setup, include=FALSE}
