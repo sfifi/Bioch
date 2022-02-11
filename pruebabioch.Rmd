@@ -2,7 +2,7 @@
 title: "Bioch"
 author: "sfifi"
 date: "11/2/2022"
-output: html_document
+output: pdf_document
 ---
 ```{r,summary-stats,echo=FALSE}
 x <- 1:10    # create an x variable
@@ -11,7 +11,7 @@ y <- 10:1    # create a y variable
 dataf <- data.frame(x = x, y = y)
 summary(dataf)
 ```
-
+pues nada aqui estamos hacineod una prueba a ver que tal
 
 ```{r}
 
